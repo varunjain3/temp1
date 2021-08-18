@@ -23,6 +23,6 @@ Hello! I am a Ph.D. student at the <a href="http://www.physics.mcgill.ca/">McGil
 
 Outside of my research work, I am involved in the outreach efforts of the department. I am the current coordinator for <a href="https://msi.mcgill.ca/index.php?page=about-astromcgill">AstroMcGill</a>, a student-led group that organizes free public events for the promotion of science.
 
-Otherwise, I enjoy playing <a href="https://www.chess.com/member/sguichandut">chess</a>, solving combination puzzles, and biking around Montréal.
+Otherwise, I enjoy playing <a href="https://www.chess.com/member/sguichandut">chess</a> and biking around Montréal.
 
 The best way to reach me is by email at <a href="mailto:simon.guichandut@mcgill.ca">simon.guichandut@mail.mcgill.ca</a>.
